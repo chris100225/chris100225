@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Hi there! I'm Gardenia Fagundes 👋
 
 <p align="center">
@@ -49,3 +50,21 @@ I am a passionate developer based in **São Paulo, Brazil**, currently focusing 
 <p align="center">
   <i>"Coding with the same patience and detail as a crochet stitch."</i>
 </p>
+=======
+## Hi there 👋
+
+<!--
+**chris100225/chris100225** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+>>>>>>> c92c8e652454c794d19dba7b7b7e20726e88896e
