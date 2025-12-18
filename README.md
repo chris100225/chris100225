@@ -12,7 +12,7 @@
 ### 💫 About Me
 I am a passionate developer based in **São Paulo, Brazil**, currently focusing on **Front-end Development**. My journey is driven by creativity, which reflects both in my code and my handcrafts.
 
-* 🔭 I’m currently working on **Gardenia Croche**, a project that merges my tech skills with my passion for crochet.
+* 🔭 I’m currently working on **Gardenia Croche**.
 * 🌱 I’m constantly improving my skills in web interfaces and backend logic.
 * 👯 I’m looking to collaborate on Open Source projects and creative web solutions.
 * 💬 Ask me about **Front-end, C#, or even crochet patterns!**
@@ -52,3 +52,10 @@ I am a passionate developer based in **São Paulo, Brazil**, currently focusing 
 <p align="center">
   <i>"Coding with the same patience and detail as a crochet stitch."</i>
 </p>
+
+---
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+</picture>
