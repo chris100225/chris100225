@@ -1,0 +1,15 @@
+name: Waka Readme
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Roda todo dia à meia-noite UTC
+  workflow_dispatch: # Permite rodar manualmente
+
+jobs:
+  update-readme:
+    name: Update Readme with Dev Metrics
+    runs-on: ubuntu-latest
+    steps:
+      - uses: athul/waka-readme@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}

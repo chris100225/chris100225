@@ -1,6 +1,5 @@
 ![Header](/github-header-banner.png)
 
-
 # Hi there! I'm Gardenia Fagundes 👋
 
 <p align="center">
@@ -31,13 +30,18 @@ I am a passionate developer based in **São Paulo, Brazil**, currently focusing 
 ---
 
 ### ⏱️ Weekly Coding Activity
+<!-- START_SECTION:waka-->
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=gardenia1406&theme=visual_studio_code&layout=compact" alt="WakaTime Stats" />
 </p>
 ---
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
+</div>
+
+<!-- END_SECTION:waka-->
+  
   
 
 ### <div align="center">I'm Rishav, a full-time full-stack freelance developer 👨‍💻 working remotely since 2013 🚀</div>  
