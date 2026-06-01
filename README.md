@@ -38,7 +38,7 @@ I am a passionate developer based in **São Paulo, Brazil**, currently focusing 
   
   
 
-### <div align="center">I'm Rishav, a full-time full-stack freelance developer 👨‍💻 working remotely since 2013 🚀</div>  
+### <div align="center">I'm Gardenia, a full-time full-stack studant developer 👨‍💻 working remotely since 2024 🚀</div>  
   
 
 - 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
