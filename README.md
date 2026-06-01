@@ -32,13 +32,7 @@ I am a passionate developer based in **São Paulo, Brazil**, currently focusing 
 ### ⏱️ Weekly Coding Activity
 <!-- START_SECTION:waka-->
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=gardenia1406&theme=visual_studio_code&layout=compact" alt="WakaTime Stats" />
-</p>
----
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>
+<figure><embed src="https://wakatime.com/share/@gardenia1406/47e9919f-8a8e-4003-8008-0371875aac8a.svg"></embed></figure>
 
 <!-- END_SECTION:waka-->
   
