@@ -31,9 +31,7 @@ I am a passionate developer based in **São Paulo, Brazil**, currently focusing 
 
 ### ⏱️ Weekly Coding Activity
 <!-- START_SECTION:waka-->
-
-<figure><embed src="https://wakatime.com/share/@gardenia1406/47e9919f-8a8e-4003-8008-0371875aac8a.svg"></embed></figure>
-
+<figure><embed src="https://wakatime.com/share/@gardenia1406/fb8cd4e8-8263-4c12-a941-96c55e91fcd5.svg"></embed></figure>
 <!-- END_SECTION:waka-->
   
   
