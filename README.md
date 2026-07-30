@@ -1,4 +1,4 @@
-![Header](/github-header-banner.png)
+![Header](/banner%20git.png)
 
 # Hi there! I'm Gardenia Fagundes 👋
 
