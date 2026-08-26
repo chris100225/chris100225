@@ -3,7 +3,6 @@
 # Hi there! I'm Gardenia Fagundes 👋
 
 <p align="center">
-  <img src="https://view-counter.api.fnkr.net/badge.svg?label=Views&color=7B1FA2&style=flat-square" alt="Views" />
 </p>
 
 ---
@@ -31,6 +30,7 @@ I am a passionate developer based in **São Paulo, Brazil**, currently focusing 
 
 ### ⏱️ Weekly Coding Activity
 <!-- START_SECTION:waka-->
+<figure><embed src="https://wakatime.com/share/@gardenia1406/c4ea258c-b3e4-4e78-9c55-45692ff456d9.svg"></embed></figure>
 <!-- END_SECTION:waka-->
   
   
