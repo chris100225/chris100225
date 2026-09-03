@@ -39,7 +39,7 @@ I am a passionate developer based in **São Paulo, Brazil**, currently focusing 
 ### ⏱️ Weekly Coding Activity
 <!-- START_SECTION:waka-->
 <!-- END_SECTION:waka-->
-![WakaTime Languages](https://wakatime.com/share/@gardenia1406/a774e338-95a0-4d41-868f-c3e32505a6b5.svg)
+![WakaTime Languages](https://wakatime.com/share/@gardenia1406/7daa6614-deeb-4c49-a177-0586a74bad9b.svg)
 
 ### <div align="center">I'm Gardenia, a full-time full-stack studant developer 👨‍💻 working remotely since 2024 🚀</div>  
   
