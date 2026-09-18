@@ -11,9 +11,8 @@
   <a href="mailto:catarina.martin@aluno.senai.br">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" />
   </a>
-  <a href="https://github.com/gardenia1406">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
+  <a href="[https://github.com/gardenia1406](https://github.com/chris100225/chris100225/blob/main/README.md)">
+<img src="https://img.shields.io/badge/Language-English-blue?style=for-the-badge&logo=translate&logoColor=white" alt="Switch to English" />  </a>
 </p>
 
 ---
