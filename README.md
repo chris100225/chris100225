@@ -8,12 +8,11 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/chris100225/chris100225/blob/main/READMEpt.md">
-    <img src="https://img.shields.io/badge/Versão%PT-BR-100000?style=for-the-badge&logo=github&logoColor=white" alt="Portugues" />
-  </a>
   <a href="mailto:catarina.martin@aluno.senai.br">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+  <a href="https://github.com/chris100225/chris100225/blob/main/READMEpt.md">
+<img src="https://img.shields.io/badge/Language-Português-blue?style=for-the-badge&logo=translate&logoColor=white" alt="Switch to English" />  </a>
 </p>
 
 ---
