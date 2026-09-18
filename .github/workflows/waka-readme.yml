@@ -1,0 +1,19 @@
+name: WakaTime status update
+
+on:
+  schedule:
+    # Roda todos os dias à meia-noite (UTC)
+    - cron: '0 0 * * *'
+  workflow_dispatch: # Permite rodar manualmente se quiser
+
+jobs:
+  update-readme:
+    name: Update Readme with WakaTime Stats
+    runs-on: ubuntu-latest
+    steps:
+      - uses: anmol00013/wakatime-readme@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          SHOW_TIME: "true"
+          SHOW_MASKED_TIME: "false"
+          SECTION_NAME: "wakatime"
