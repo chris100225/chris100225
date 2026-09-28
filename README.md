@@ -43,7 +43,7 @@ I am a passionate developer based in **São Paulo, Brazil**, currently focusing 
 
 ### ⏱️ Coding Activity
 
-![WakaTime Languages](https://wakatime.com/share/@gardenia1406/7daa6614-deeb-4c49-a177-0586a74bad9b.svg)
+![WakaTime Languages](https://wakatime.com/share/@gardenia1406/a6bbf62c-6e67-4a7d-a0f0-255ef9cc06f4.svg)
 
 ---
 
