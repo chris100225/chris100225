@@ -21,7 +21,7 @@
 
 Sou uma desenvolvedora apaixonada localizada em **São Paulo, Brasil**, atualmente focada em **Desenvolvimento Front-end e Full-stack**. Minha jornada é movida pela criatividade, algo que se reflete tanto no meu código quanto no meu artesanato.
 
-* 🔭 **Projeto atual:** [Gardenia Croche](https://github.com/gardenia1406)
+* 🔭 **Projeto atual:** [NascenTech](https://nascen-tech.vercel.app/)
 * 🌱 **Aprimorando conhecimentos em:** Interfaces Web Avançadas, Lógica de Backend e Arquitetura de APIs
 * 👯 **Aberta a colaborações em:** Projetos Open Source e soluções web criativas
 * 💬 **Pergunte-me sobre:** Front-end (React/Next.js), C#, .NET ou padrões de crochê!
