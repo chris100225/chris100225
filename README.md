@@ -21,7 +21,7 @@
 
 I am a passionate developer based in **São Paulo, Brazil**, currently focusing on **Front-end and Full-stack Development**. My journey is driven by creativity, which reflects both in my code and in my handcrafts.
 
-* 🔭 **Currently working on:** [Gardenia Croche](https://github.com/gardenia1406)
+* 🔭 **Currently working on:** [NascenTech](https://nascen-tech.vercel.app/)
 * 🌱 **Currently learning:** Advanced Web Interfaces, Backend Logic, and API Architecture
 * 👯 **Looking to collaborate on:** Open Source projects and creative web solutions
 * 💬 **Ask me about:** Front-end (React/Next.js), C#, .NET, or crochet patterns!
